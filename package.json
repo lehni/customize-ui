@@ -10,7 +10,7 @@
 		"url": "https://github.com/iocave/customize-ui"
 	},
 	"engines": {
-		"vscode": "^1.71.2"
+		"vscode": "^1.77.0"
 	},
 	"categories": [
 		"Themes",

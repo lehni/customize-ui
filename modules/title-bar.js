@@ -12,7 +12,7 @@ define([
     "vs/workbench/browser/parts/editor/tabsTitleControl",
     "vs/workbench/browser/parts/editor/noTabsTitleControl",
     "vs/workbench/browser/parts/editor/editor",
-    "vs/platform/native/electron-sandbox/native"
+    "vs/platform/native/common/native"
 ], function (exports, utils, configuration, platform, browser, layout, activitybarPart, colorRegistry,
     part, compositePart, ttt, titleControl, editor, electron) {
 
